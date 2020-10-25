@@ -8,7 +8,7 @@ public class BestApiController {
 	
 	@RequestMapping("/")
 	public String bestApi() {
-		return "million dollars";
+		return "go to schooooool";
 	}
 	
 	

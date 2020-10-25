@@ -8,7 +8,7 @@ public class BestApiController {
 	
 	@RequestMapping("/")
 	public String bestApi() {
-		return "THIS IS NE NEW APIIWEFPIWEFPIWPIWEFPWEPF";
+		return "fedex pipeline!!!!!";
 	}
 	
 	
